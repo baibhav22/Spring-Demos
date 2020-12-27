@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d0a82d0-d3d2-4614-aeb4-41ff4f1b0a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MapandFilterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlatMapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MapExample.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +46,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapExample">
+  <component name="RunManager" selected="Application.FlatMapDemo">
     <configuration name="FilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FilterExample" />
+      <module name="Spring-demos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlatMapDemo" />
+      <module name="Spring-demos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapCustomClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapCustomClassExample" />
       <module name="Spring-demos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlatMapDemo" />
+        <item itemvalue="Application.MapCustomClassExample" />
         <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.FilterExample" />
       </list>
@@ -79,7 +94,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595442731213</updated>
-      <workItem from="1608928694477" duration="1072000" />
+      <workItem from="1608928694477" duration="1289000" />
+      <workItem from="1608931563237" duration="1655000" />
+      <workItem from="1608933388358" duration="963000" />
+      <workItem from="1608935401120" duration="332000" />
+      <workItem from="1608957047581" duration="20000" />
     </task>
     <servers />
   </component>
@@ -91,7 +110,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
